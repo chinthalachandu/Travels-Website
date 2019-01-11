@@ -1,0 +1,400 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+.header{
+	width:100%;
+	float:left;
+	height:auto;
+	background-color: #4E2E4F;
+	overflow:hide;
+}
+.inner-header{
+	width:1100px;
+	margin:auto;
+	margin-top:30px;
+}
+.head-text{
+	width:50%;
+	float:left;
+	text-align:center;
+}
+.head-text h1{
+	color:white;
+	font-size:60px;
+	margin-top:40%;
+	font-family: 'Prompt', sans-serif;
+	letter-spacing:5px;
+}
+.head-text h3{
+	color:white;
+	margin-top:40px;
+	font-family: 'Prompt', sans-serif;
+	letter-spacing:3px;
+}
+.head-img{
+	width:50%;
+	float:left;
+	text-align:center;	
+}
+.email{
+	width:100%;
+	float:left;
+	height:auto;
+	background-color:#5A0D29;
+	padding-bottom:50px;
+	padding-top:50px;
+}
+.inner-email{
+	width:1100px;
+	margin:auto;
+	text-align:center;
+	margin-top:50px;
+	color:white;
+	padding-bottom:50px;
+}
+.inner-email h1{
+	font-size:40px;
+	font-family: 'Prompt', sans-serif;
+	letter-spacing:10px;
+	margin-top:20px;
+}
+.inner-email h4{
+	font-size:20px;
+	margin-top:30px;
+	font-family: 'Prompt', sans-serif;
+	letter-spacing:1px;
+}
+input{
+	width:250px;
+	padding:20px;
+	background-color:rgba(0, 0, 0, 0.1);
+	color:white;
+	margin-top:40px;
+	border:2px solid white;
+	font-family: 'Prompt', sans-serif;
+	font-size:18px;
+}
+.fa {
+	padding:23px;
+	font-size:20px;
+	border:2px solid white;
+	margin-top:10px;
+}
+.about{
+	width:100%;
+	float:left;
+	height:auto;
+}
+.inner-about{
+	width:100%;
+	margin:auto;
+}
+.sece{
+	width:50%;
+	float:left;
+	background-image: url(../images/abo.jpg);
+	background-position:center;
+	background-size:cover;
+	height:400px;
+}
+.sece h3{
+	color:white;
+	font-family: 'Prompt', sans-serif;
+	margin:0 5%;
+	margin-top: 160px;
+	text-align:center;
+	padding:20px;
+	border:2px solid white;
+}
+.sece-1{
+	width:50%;
+	float:left;
+	background-image: url(../images/about.jpg);
+	background-position:center;
+	background-size:cover;
+	height:400px;
+}
+.sece-1 h3{
+	color:white;
+	font-family: 'Prompt', sans-serif;
+	margin:0 5%;
+	margin-top: 160px;
+	text-align:center;
+	padding:20px;
+	border:2px solid white;
+}
+.com-tet{
+	width:100%;
+	float:left;
+	height:auto;
+}
+.col-box{
+	width:50%;
+	float:left;
+	background-color: #6EE2D6;
+	padding:50px 0px;
+}
+.col-box p{
+	color:white;
+	font-size:18px;
+	letter-spacing:1px;
+	font-family: 'Prompt', sans-serif;
+	padding:20px;
+	margin-top:20px;
+}
+.col-box1{
+	width:50%;
+	float:left;
+	background-color: #F5A95C;
+	padding:50px 0px;
+}
+.col-box1 p{
+	color:white;
+	font-size:18px;
+	letter-spacing:1px;
+	font-family: 'Prompt', sans-serif;
+	padding:20px;
+	margin-top:20px;
+}
+.testmonials{
+	width:100%;
+	float:left;
+	height:auto;
+	background-color:#EDF0DF;
+	padding-bottom:50px;
+	padding-top:50px:;
+}
+.inner-test{
+	width:1100px;
+	margin:auto;
+}
+.test-tet{
+	width:60%;
+	float:left;
+}
+.test-tet h3{
+	color:grey;
+	margin-top:20%;
+	letter-spacing:1px;
+	font-family: 'Prompt', sans-serif;
+	padding:10px;
+}
+.test-tet p{
+	color: grey;
+	margin-top:10px;
+	letter-spacing:1px;
+	font-family: 'Prompt', sans-serif;
+	padding:20px;
+}
+.test-img{
+	width:40%;
+	float:left;
+	text-align:center;
+}
+.test-img img{
+	margin-top:30px;
+	border-radius: 50%;
+	box-shadow: 10px 10px 30px lightslategrey;
+}
+.moblie-sec{
+	width:100%;
+	float:left;
+	height:auto;
+	background-color:#F5E6D0;
+}
+.inner-mobli{
+	width:1100px;
+	margin:auto;
+	margin-top:40px;
+}
+.mobile{
+	width:50%;
+	float:left;
+	text-align:center;
+}
+.mobile img {
+	margin-top:30px;
+}
+.mobi-tet{
+	width:50%;
+	float:left;
+}
+.mobi-tet h3{
+	color:grey;
+	margin-top:20%;
+	letter-spacing:1px;
+	font-family: 'Prompt', sans-serif;
+	padding:10px;
+}
+.mobi-tet p{
+	color: grey;
+	margin-top:10px;
+	letter-spacing:1px;
+	font-family: 'Prompt', sans-serif;
+	padding:20px;
+}
+.call-box{
+	width:100%;
+	float:left;
+	height:auto;
+	background-color:#EDF0DF;
+	padding-bottom:50px;
+	padding-top:50px:;
+}
+.inner-call{
+	width:1100px;
+	margin:auto;
+}
+.call-tet{
+	width:50%;
+	float:left;
+}
+.call-tet h3{
+	color:grey;
+	margin-top:20%;
+	letter-spacing:1px;
+	font-family: 'Prompt', sans-serif;
+	padding:10px;
+}
+.call-tet p{
+	color: grey;
+	margin-top:10px;
+	letter-spacing:1px;
+	font-family: 'Prompt', sans-serif;
+	padding:20px;
+}
+.call-img{
+	width:50%;
+	float:left;
+	text-align:center;
+}
+.call-img img{
+	margin-top:30px;
+	border-radius: 50%;
+	box-shadow: 10px 10px 30px lightslategrey;
+}
+.contact{
+	width:100%;
+	float:left;
+	background-image:url(../images/call-img2.jpg);
+	background-position:center;
+	background-size:cover;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.inner-contact{
+	width:1100px;
+	margin:auto;
+	text-align:center;
+}
+.inner-contact h1 {
+	color:white;
+	margin-top:10%;
+	letter-spacing:5px;
+	font-family: 'Prompt', sans-serif;
+	font-size:38px;
+	padding:10px;
+}
+.inner-contact p{
+	color:white;
+	margin-top:10px;
+	letter-spacing:1px;
+	font-family: 'Prompt', sans-serif;
+	padding:20px;
+}
+.footer{
+	width:100%;
+	float:left;
+	height:auto;
+	background-color:#6EE2D6;
+}
+.inner-footer{
+	width:1100px;
+	margin:auto;
+	text-align:center;
+	margin-top:30px;
+}
+.inner-footer h1{
+	color:white;
+	letter-spacing:5px;
+	font-family: 'Prompt', sans-serif;
+	padding:10px;
+	margin-top:20px;
+	padding-top:40px;
+	padding-bottom:40px;
+}
+.inner-footer p{
+	color:white;
+	margin-top:10px;
+	letter-spacing:1px;
+	font-family: 'Prompt', sans-serif;
+	padding:20px;
+}
+
+
+@media screen and (max-width: 1024px) and (orientation:portrait){
+	.inner-header,.inner-email, .inner-test, .inner-mobli,.inner-call,.inner-footer,.inner-contact{
+		width: 100%;
+	}
+
+}
+@media screen and (max-width: 991px) and (orientation: portrait){
+	.head-text,.head-img,.test-tet, .test-img,.mobile,.mobi-tet,.call-tet,.call-img,.sece,.sece-1{
+		width: 100%;
+	}
+	.head-text h1{
+		margin-top: 10%;
+	}
+	 .head-img{
+	 		margin:20px 0;
+	}
+	.test-tet{
+		text-align:center;
+	}
+	.test-tet h3{
+		margin-top: 0;
+	}
+
+	.mobi-tet{
+		text-align: center;
+	}
+	.mobi-tet h3{
+		margin-top:0px;
+	}
+	.mobile img{
+		margin-top: 0px;
+	}
+	.call-tet{
+		text-align: center;
+	}
+	.call-tet h3{
+		margin-top: 0px;
+	}
+	.testmonials,.moblie-sec,.call-box,.inner-footer{
+		padding:50px 0;
+	}
+	.inner-mobli{
+		margin-top: 0px;
+	}
+}
+@media screen and (max-width:767px) and (orientation:portrait) {
+	.head-img img,.mobile img,.test-img img,.call-img img {
+    width: 50%;
+	}
+	.head-text h1,.inner-email h1,.inner-contact h1,.inner-footer h1{
+		font-size:30px;
+	}
+	.head-text h3,.inner-email h4{
+		font-size:13px;
+		padding: 0 20px;
+	}
+	.col-box,.col-box1{
+		width: 100%;
+		padding: 30px 20px;
+	}
+	.col-box p,.col-box1 p,.test-tet p,.mobi-tet p, .call-tet p,{
+		font-size: 15px;
+		margin-top: 0px;
+	}
+}
